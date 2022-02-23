@@ -1,5 +1,16 @@
-
+"""
 print("Hello world.")
 print("Nice")
 print("How are you")
 print(5*5)
+"""
+print("Nicholas")
+print("Mrs White")
+print("King's High")
+print("15")
+print("2047")
+print("115")
+print(658/7)
+print("A long time ago")
+print("Apex legends")
+print("Digi Tec")
